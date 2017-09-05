@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\NoahH_000\\Documents\\AndroidWorkspace\\BluetoothGIX\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\NoahH_000\\Documents\\AndroidWorkspace\\BluetoothGIX\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\NoahH_000\\Documents\\GIX\\App\\AndroidSetup\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\NoahH_000\\Documents\\GIX\\App\\AndroidSetup\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\NoahH_000\\Documents\\GIX\\App\\AndroidSetup\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\NoahH_000\\Documents\\GIX\\App\\AndroidSetup\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NoahH_000\\Documents\\AndroidWorkspace\\BluetoothGIX\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\NoahH_000\\Documents\\AndroidWorkspace\\BluetoothGIX\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

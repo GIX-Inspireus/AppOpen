@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\NoahH_000\\Documents\\GIX\\App\\AndroidSetup\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.webp",
+        "source": "C:\\Users\\NoahH_000\\Documents\\GIX\\App\\AndroidSetup\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NoahH_000\\Documents\\AndroidWorkspace\\BluetoothGIX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.webp",
+        "source": "C:\\Users\\NoahH_000\\Documents\\AndroidWorkspace\\BluetoothGIX\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:12:9-53
+application
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:15:5-37:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\NoahH_000\.android\build-cache\702e6579ce8fce437b38bd4f3a7bbda9bb4c04f0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\NoahH_000\.android\build-cache\b6491e594b2fb964823ef582ff18df4efd0842fd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\NoahH_000\.android\build-cache\54775ecf5f23c83f7571e0004d754173041728a2\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\NoahH_000\.android\build-cache\8c32b55a839719e71b4d350e9d1bc8e81aaa2c70\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha5] C:\Users\NoahH_000\.android\build-cache\82e522a6d504a456aa1d599caa9f27922d416c2b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:20:9-56
+activity#com.example.noahh_000.bluetoothgix.BreathingActivity
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:22:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.noahh_000.bluetoothgix.DeviceControlActivity
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:29:19-56
+service#com.example.noahh_000.bluetoothgix.BluetoothLeService
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:31:9-33:38
+	android:enabled
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:32:13-47
+activity#com.example.noahh_000.bluetoothgix.DeviceScanActivity
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:35:19-53
+activity#com.example.noahh_000.bluetoothgix.ScanActivity
+ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml:36:19-47
+uses-sdk
+INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\NoahH_000\.android\build-cache\702e6579ce8fce437b38bd4f3a7bbda9bb4c04f0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\NoahH_000\.android\build-cache\b6491e594b2fb964823ef582ff18df4efd0842fd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\NoahH_000\.android\build-cache\54775ecf5f23c83f7571e0004d754173041728a2\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\NoahH_000\.android\build-cache\8c32b55a839719e71b4d350e9d1bc8e81aaa2c70\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha5] C:\Users\NoahH_000\.android\build-cache\82e522a6d504a456aa1d599caa9f27922d416c2b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] C:\Users\NoahH_000\.android\build-cache\a596766f27c5a17593d31ee8498bbf1239e0caad\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.robinhood.spark:spark:1.1.1] C:\Users\NoahH_000\.android\build-cache\9c4f9d035e9fba6c0d344fcd438efa317f9c638d\output\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\NoahH_000\.android\build-cache\702e6579ce8fce437b38bd4f3a7bbda9bb4c04f0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NoahH_000\Documents\GIX\App\AndroidSetup\app\src\main\AndroidManifest.xml
